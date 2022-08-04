@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;800&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    background-color: #DADFE8;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../imagens/Pokémon\ O\ Filme_\ Mewtwo\ Contra-Ataca\ Papel\ de\ Parede\ HD\ _\ Plano\ de\ Fundo\ _\ 1920x1080.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pokedex {
+  display: flex;
+  gap: 30px;
+  padding: 30px 0;
+}
