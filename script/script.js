@@ -83,6 +83,8 @@ function ativarGengar() {
     pikachu.classList.remove("aberto");
     bulbasaurList.classList.remove("ativado");
     bulbasauro.classList.remove("aberto");
+    chamanderList.classList.remove("ativado");
+    chamander.classList.remove("aberto");
     squirtleList.classList.remove("ativado");
     squirtle.classList.remove("aberto");
     dragoniteList.classList.remove("ativado");
